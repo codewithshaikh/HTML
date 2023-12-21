@@ -1,0 +1,77 @@
+/* CSS for Login Form  */
+
+.Base{
+	height: 80%;
+	width: 30%;
+	margin: 50px 0px 0px 200px ;
+	background: linear-gradient(to right top,green,yellow,skyblue);
+}
+
+.h1{
+	text-align: center;
+	color: Red;
+}
+
+.p1{
+	font-weight: bold;		
+	font-size: 15px;
+	margin: 0px 0px 0px 70px;
+}
+	
+.input11{
+	margin: 0px 0px 0px 50px;
+	padding: 5px;
+}
+
+.img1{
+	margin: -20px 0px 0px 180px;
+	height: 20px;
+	width: 130px;
+}
+	
+a{
+	font-weight: bold;
+	margin: 0px 0px 0px 25px;
+}
+	
+.input12{
+	font-weight: bold;
+	margin: 0px 20px 0px 0px;
+	padding: 5px;
+}
+
+
+/* CSS for Registration Form  */
+.Derived{	
+	height: 80%; 
+	width: 30%;
+	margin: -532px 0px 0px 700px ;
+	background: linear-gradient(to right top, red , orange , yellow );
+}
+
+.p2{
+	font-weight: bold;		
+	font-size: 15px;
+	margin: -3px 0px 0px 50px;
+}
+
+.input21{
+	margin: -15px 0px 0px 200px;
+	padding: 3px;
+}
+
+.radios{
+	margin: -25px 0px 0px 150px ;
+}
+
+.selects{
+	padding: 5px;
+	font-weight: bold;
+	margin: 0px 0px 0px 150px;
+}
+
+.input22{
+	font-weight: bold;
+	margin: 0px 20px 0px 0px;
+	padding: 5px;
+}

@@ -1,0 +1,91 @@
+body{
+	background-image: url('back_img.jpg');
+	background-image: size:100% ;
+}
+
+.div1{
+	height: 55%;
+	width: 25%;
+	margin: 80px 0px 0px 50px;
+	background-color: white;
+}
+
+.div2{
+	height: 55%;
+	width: 25%;
+	margin: -250px 0px 0px 480px;
+	background-color: white;
+}
+
+.div3{
+	height: 53%;
+	width: 25%;
+	margin: -280px 0px -0px 900px;
+	background-color: white;
+
+}
+
+.p11{
+	font-size: 15px;
+	margin: 0px 0px 0px 25px;
+}
+.p12{
+
+	font-size: 10px;
+	margin: 7px 0px 0px 25px;
+}
+
+
+#input1{
+	background: linear-gradient( to right top ,  darkred , red , orange , yellow);
+	color: white;
+	margin: 0px 0px 0px 90px;
+	padding: 10px;
+	border-radius: 20px;
+	border: none;
+	width: 150px;
+}
+
+
+#input2{
+	background: linear-gradient(  to right top ,  darkred , red , orange , yellow);
+	color: white;
+	padding: 6px;
+	border-radius: 20px;
+	border: none;
+	width: 100px;
+	margin: 0px 0px 0px 25px;
+}
+
+#input3{
+	background: linear-gradient(  to right top ,  darkred , red , orange , yellow);
+	color: white;
+	padding: 6px;
+	border-radius: 20px;
+	border: none;
+	width: 100px;
+	margin: 0px 0px 0px 35px;
+}
+
+.p13{
+	font-weight: 900;
+	font-size: 50px;
+	background-color: yellow;
+	margin: -50px 0px 0px 10px;
+	height: 60px;
+	width: 450px;
+	letter-spacing: 2px;
+}
+.h31{
+
+	color: black;
+	margin: 0px 0px 0px 10px;
+}
+.h32{
+	color: black;
+	margin: -21px 0px 0px 135px;
+}
+.h33{
+	color: black;
+	margin: -23px 0px 0px 250px;
+}
